@@ -98,7 +98,7 @@
 					<tileContent>
 						<TileContent>
 							<content>
-								<ImageContent src="sap-icon://temperature"/>
+								<ImageContent src="sap-icon://sorting-ranking"/>
 							</content>
 						</TileContent>
 					</tileContent>
