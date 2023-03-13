@@ -1,15 +1,15 @@
 {
 	"News": [
 		{
-			"content": "How important is semicondcutor ?",
-			"subheader": "Semiconductors are an essential component of electronic devices, enabling advances in communications, computing, countless other applications.",
-			"date": "2016-12-07T09:42:32.910Z",
+			"content": "",
+			"subheader": "",
+			"date": "",
 			"image": "images/ice-cream.jpg"
 		},
 		{
-			"content": "What is semicondcutor",
-			"subheader": "Semiconductors, sometimes referred to as integrated circuits (ICs) or microchips, are made from pure elements, typically silicon or germanium, or compounds such as gallium arsenide.",
-			"date": "2016-12-06T00:00:00.000Z",
+			"content": "",
+			"subheader": "",
+			"date": "",
 			"image": "images/penguins.jpg",
 			"state": "Loading"
 		}
