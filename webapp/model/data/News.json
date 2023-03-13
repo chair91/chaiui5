@@ -1,14 +1,14 @@
 {
 	"News": [
 		{
-			"content": "The best ice cream I've had in years!",
-			"subheader": "Early Adopter of the ice cream machine",
+			"content": "How important is semicondcutor ?",
+			"subheader": "Semiconductors are an essential component of electronic devices, enabling advances in communications, computing, countless other applications.",
 			"date": "2016-12-07T09:42:32.910Z",
 			"image": "images/ice-cream.jpg"
 		},
 		{
-			"content": "Your first ice cream? Don't worry. There are plenty of recipes available.",
-			"subheader": "Find your favorite recipe",
+			"content": "What is semicondcutor",
+			"subheader": "Semiconductors, sometimes referred to as integrated circuits (ICs) or microchips, are made from pure elements, typically silicon or germanium, or compounds such as gallium arsenide.",
 			"date": "2016-12-06T00:00:00.000Z",
 			"image": "images/penguins.jpg",
 			"state": "Loading"
