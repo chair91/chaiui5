@@ -35,7 +35,7 @@
 					header="{
 						parts: [
 							'i18n>startpageCCTileTitle',
-							'business>/year',
+							'business>/sector',
 							'business>/currency'
 						],
 						formatter: '.formatMessage'
