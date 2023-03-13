@@ -78,7 +78,7 @@
 			},
 			"business": {
 				"type": "sap.ui.model.json.JSONModel",
-				"uri": "model/data/BusinessData.json"
+				"uri": "https://chaiui5.web.app/webapp/model/data/BusinessData.json"
 			},
 			"suppliers": {
 				"type": "sap.ui.model.json.JSONModel",
