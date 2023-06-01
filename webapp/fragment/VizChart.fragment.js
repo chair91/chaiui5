@@ -76,7 +76,8 @@ sap.ui.define([
 				}
 			});
 
-			var sDataPath = sap.ui.require.toUrl("sap/suite/ui/commons/demokit/tutorial/icecream/11/model/data") + "/IceCreamTestData.json";
+			//var sDataPath = sap.ui.require.toUrl("sap/suite/ui/commons/demokit/tutorial/icecream/11/model/data") + "/IceCreamTestData.json";
+			var sDataPath = "https://chaiui5.web.app/webapp/model/data/IceCreamTestData.json";
 			var oModel = new JSONModel(sDataPath);
 			controller.getView().setModel(oModel);
 
