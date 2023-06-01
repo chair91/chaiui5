@@ -35,7 +35,7 @@
 					header="{
 						parts: [
 							'i18n>startpageCCTileTitle',
-							'business>/year',
+							'business>/sector',
 							'business>/currency'
 						],
 						formatter: '.formatMessage'
@@ -98,7 +98,7 @@
 					<tileContent>
 						<TileContent>
 							<content>
-								<ImageContent src="sap-icon://temperature"/>
+								<ImageContent src="sap-icon://sorting-ranking"/>
 							</content>
 						</TileContent>
 					</tileContent>

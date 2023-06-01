@@ -3,29 +3,29 @@
 		{
 			"id": "1",
 			"lane": "0",
-			"title": "Raw material: From stock",
-			"titleAbbreviation": "RMS",
+			"title": "Extreme ultraviolet lithography",
+			"titleAbbreviation": "EUV",
 			"children": [
 				10,
 				11
 			],
 			"isTitleClickable": true,
 			"state": "Positive",
-			"stateText": "Delivered",
-			"texts": [ "Raw material from stock" ]
+			"stateText": "Bought",
+			"texts": [ "ASML" ]
 		}, {
 			"id": "2",
 			"lane": "0",
-			"title": "Raw material: Purchased",
-			"titleAbbreviation": "RMP",
+			"title": "Electronics Design Automation",
+			"titleAbbreviation": "EDA",
 			"children": [
 				10,
 				11
 			],
 			"isTitleClickable": true,
 			"state": "Positive",
-			"stateText": "Delivered",
-			"texts": [ "Raw material from purchase" ]
+			"stateText": "Bought",
+			"texts": [ "SNPS,CDNS" ]
 		}, {
 			"id": "3",
 			"lane": "0",
@@ -40,8 +40,8 @@
 		}, {
 			"id": "10",
 			"lane": "1",
-			"title": "Manufacturing: Freezer",
-			"titleAbbreviation": "MAF",
+			"title": "Fabless Manufacturing",
+			"titleAbbreviation": "FBL",
 			"children": [ 20 ],
 			"state": "Positive",
 			"stateText": "Finished",
